@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "sampleStreamlitProject"
+  },
+  "python": {
+    "version": "3.10.0",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "3d54b3fb7a61491fc8200e50b89b25c7"
+    },
+    ".DS_Store": {
+      "checksum": "e2d126e1e1d0f2204f87648f142316f5"
+    },
+    "README.md": {
+      "checksum": "255631d98f5e7683ca485c16293d805c"
+    },
+    "sampleStreamlitProject.py": {
+      "checksum": "6c52d5ab220a55c7f0339218c34e8138"
+    }
+  }
+}
